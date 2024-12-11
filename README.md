@@ -3,7 +3,7 @@
 This repository is an official PyTorch implementation of the paper "Multi-modal Knowledge Decomposition based Online Distillation for Biomarker Prediction in Breast Cancer Histopathology" from MICCAI 2025.
 
 
-## framework
+## Framework
  <p align="center">
   <img align="center" src="fm.jpg" width="800px"/>
  </p>
